@@ -400,5 +400,11 @@
 	"master chef",
 	"masterchef",
 	"gran hermano",
-	"emulator"
+	"emulator",
+	"llvm",
+	"zig",
+	"nintendo 64",
+	"nes",
+	"snes",
+	"github enterprise"
 ]
